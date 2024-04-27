@@ -1,0 +1,11 @@
+=============== Apr 19, 2024 (MSK) ===============
+10:26:24.143379 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:26:24.146386 db@open opening
+10:26:24.149769 version@stat F·[] S·0B[] Sc·[]
+10:26:24.149769 db@janitor F·2 G·0
+10:26:24.149769 db@open done T·3.3831ms
+11:16:24.174991 memdb@flush N·35502 S·3MiB
+11:16:24.188814 memdb@flush created L0@3 N·35502 S·719KiB "loc..seq,v22768":"version,v1"
+11:16:24.188814 version@stat F·[1] S·719KiB[719KiB] Sc·[0.25]
+11:16:24.188814 memdb@flush committed F·1 T·13.8229ms
+11:16:24.190461 journal@remove removed @1
